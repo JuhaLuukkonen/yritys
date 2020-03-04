@@ -52,3 +52,4 @@ https://www.youtube.com/watch?v=GxRnenQYG7I
 
 ## [Python 3.8.1 ](https://www.python.org/downloads/release/python-381/)
 
+https://github.com/JuhaLuukkonen/yritys/blob/master/avoindataUI.pdf
