@@ -24,13 +24,13 @@ Now, add the needed Djano dependencies:
 pip install django djangorestframework django-cors-headers
 ```
 
-Great, just need to run the project now. For this, `cd` into the yritys-master folder and run:
+Run the project into the yritys-master folder with command:
 
 ```bash
 python manage.py runserver
 ```
 
-That's it. Access the address http://localhost:8000/api/students/ and check for the API up and running.
+Access the address http://localhost:8000/api/companies/ and check for the API up and running.
 
 ### Running the React project
 
