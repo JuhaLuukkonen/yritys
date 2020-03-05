@@ -24,7 +24,7 @@ Now, add the needed Djano dependencies:
 pip install django djangorestframework django-cors-headers
 ```
 
-Great, just need to run the project now. For this, `cd` into the django-react-logrocket folder and run:
+Great, just need to run the project now. For this, `cd` into the yritys-master folder and run:
 
 ```bash
 python manage.py runserver
